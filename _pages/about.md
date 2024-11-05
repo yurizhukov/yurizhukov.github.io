@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+
 ======
 
 I am a PhD Candidate in the Department of Economics at the University of Strathclyde. 
