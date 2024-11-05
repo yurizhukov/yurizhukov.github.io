@@ -1,20 +1,9 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+BF114: Introduction to Economics and Business Analysis and Technology
 
-This is a description of a teaching experience. You can use markdown like any other post.
+EC315: Topics in Microeconomics with Cross Section Econometrics
 
-Heading 1
-======
+EC316: Topics In Macroeconomics With Time Series Econometrics
 
-Heading 2
-======
+EC215: Intermediate Microeconomics
 
-Heading 3
-======
+EC951: Analysis of Economic Data (Postgraduate) 
