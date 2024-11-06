@@ -9,27 +9,35 @@ redirect_from:
 
 
 I am a PhD Candidate in the Department of Economics at the University of Strathclyde. 
-You can find details of my research papers here, and a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-November-2024).
+You can find details of my research papers here, and a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-November-2024.pdf).
 
 
 Research interests
-======
+------
 
 My research interests lie in Applied Industrial Organisation, Applied Game Theory, Regulatory Markets, Behavioural Economics, and Political Economy.
 
 
-MSc and PhD papers
-======
-
-MSc Thesis: “How can Scotland's tech ecosystem be developed to maximise economic potential.”
+MSc and PhD papers:
 ------
+
+“How can Scotland's tech ecosystem be developed to maximise economic potential.”
+------
+### Spoiler Example
+
+<details>
+  <summary>Click to reveal my full research projects</summary>
+  <p>Here are additional details on the research papers and projects I am working on...</p>
+  <p>More content can be hidden here, such as drafts or unpublished work.</p>
+</details>
+
 Supervisor: Professor Graeme Roy 
 
 External supervisor: Stephen O’Neill (Scottish Government)
 
 Funded by Scottish Government.
 
-PhD Thesis: “The loyalty penalty: impacts on consumers and policy responses.”
+“The loyalty penalty: impacts on consumers and policy responses.”
 ------
 Primary Supervisor: Professor Alex Dickson 
 
@@ -40,7 +48,7 @@ Funded by the Competition and Markets Authority (CMA).
 
 
 Teaching
-======
+------
 BF114: Introduction to Economics and Business Analysis and Technology
 
 EC315: Topics in Microeconomics with Cross Section Econometrics
