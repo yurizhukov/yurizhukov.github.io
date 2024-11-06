@@ -9,7 +9,7 @@ redirect_from:
 
 
 I am a PhD Candidate in the Department of Economics at the University of Strathclyde. 
-You can find details of my research papers here, and a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-November-2024.pdf).
+You can find a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-November-2024.pdf).
 
 
 Research interests
