@@ -23,11 +23,9 @@ MSc and PhD papers:
 
 “How can Scotland's tech ecosystem be developed to maximise economic potential.”
 ------
-Supervisor: Professor Graeme Roy 
-
-External supervisor: Stephen O’Neill (Scottish Government)
-
-Funded by Scottish Government.
+- Supervisor: Professor Graeme Roy 
+- External supervisor: Stephen O’Neill (Scottish Government)
+- Funded by Scottish Government.
 
 <details>
   <summary>Abstract</summary>
@@ -39,11 +37,9 @@ Funded by Scottish Government.
 
 “The loyalty penalty: impacts on consumers and policy responses.”
 ------
-Primary Supervisor: Professor Alex Dickson 
-
-Supervisors: Dr David Comerford, Dr Marco Fongoni (Aix-Marseille Université)
-
-Funded by the Competition and Markets Authority (CMA).
+- Primary Supervisor: Professor Alex Dickson 
+- Supervisors: Dr David Comerford, Dr Marco Fongoni (Aix-Marseille Université)
+- Funded by the Competition and Markets Authority (CMA).
 
 <details>
   <summary>Abstract</summary>
