@@ -59,3 +59,13 @@ Teaching
 - EC316: Topics In Macroeconomics With Time Series Econometrics
 - EC215: Intermediate Microeconomics
 - EC951: Analysis of Economic Data (Postgraduate) 
+
+
+Professional experience
+------
+- 2008 Antimonopoly committee auditor – JSC KazMunayGas
+- 2009 Antimonopoly committee auditor – Atyrau Refinery (Caspian region)
+- 2010 Antimonopoly committee auditor – JSC KazakhTeleCom
+- 2010–2014 Project Manager, Caspian Onshore/Offshore Remote Satellite Internet Provider at JSC Astel
+- 2014–2017 Product Manager, Cambodian Internet Provider Digi Telecom
+- 2017–2019 Ambassador of the Presidential Sports Club “Astana” in London, and the exclusive English Football Premier League Broadcaster in Central Asia.
