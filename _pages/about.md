@@ -23,19 +23,19 @@ MSc and PhD papers:
 
 “How can Scotland's tech ecosystem be developed to maximise economic potential.”
 ------
-### Spoiler Example
-
-<details>
-  <summary>Click to reveal my full research projects</summary>
-  <p>Here are additional details on the research papers and projects I am working on...</p>
-  <p>More content can be hidden here, such as drafts or unpublished work.</p>
-</details>
-
 Supervisor: Professor Graeme Roy 
 
 External supervisor: Stephen O’Neill (Scottish Government)
 
 Funded by Scottish Government.
+
+<details>
+  <summary>Abstract</summary>
+  <p><span style="font-size: 0.8em;">In this paper I clarify the theoretical background of what “tech ecosystem” means and how a business ecosystem approach can be used in the tech industry. I outline the main actors of the tech ecosystem: (1) enterprises and entrepreneurs; (2) accelerators and incubators; (3) educational bodies; (4) sources of finance and funding; (5) policymakers. All these actors co-exist in the environment of the tech ecosystem and, as part of it, have an impact on each other. I draw attention to high growth firms, also known as the scaleups, which are the largest contributors to economic growth. As a result of this theoretical background, a better understanding of Scotland’s tech ecosystem achieved and an explicit mind map has been build. </span></p>
+  <p><span style="font-size: 0.8em;">I review case studies from other regions to understand what kind of best practices we could apply to improve Scotland’s tech ecosystem. And as a result, I provide twelve policy recommendations which we suggest for consideration in the long-term strategic plan of the development of Scotland’s ecosystem.</span></p>
+</details>
+
+
 
 “The loyalty penalty: impacts on consumers and policy responses.”
 ------
