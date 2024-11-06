@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in the Department of Economics at the University of Strathclyde. 
+I am an experienced international professional project manager and economist, currently a PhD candidate in the Department of Economics at the University of Strathclyde.
 You can find a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-November-2024.pdf).
 
 
