@@ -68,5 +68,5 @@ Professional experience
 - 2010 Antimonopoly committee auditor – JSC KazakhTeleCom
 - 2010–2014 Project Manager, Caspian Onshore/Offshore Remote Satellite Internet Provider Terraline
 - 2014–2017 Product Manager, Cambodian Internet Provider DTV Star (Digi)
-- 2017-2019 Consultanting Manager, Terraline Representative at Tsumanga Studios Ltd (Kazakhstan)
+- 2017-2019 Consulting Manager, Terraline Representative at Tsumanga Studios Ltd (Kazakhstan)
 - 2017–2019 Representative of the Presidential Sports Club “Astana” and the exclusive English Football Premier League Broadcaster in Central Asia
