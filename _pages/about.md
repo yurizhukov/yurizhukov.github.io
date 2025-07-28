@@ -61,7 +61,7 @@ Teaching
 - EC951: Analysis of Economic Data (Postgraduate) 
 
 
-Professional experience
+Professional activities
 ------
 - 2008 Antimonopoly committee auditor – JSC KazMunayGas
 - 2009 Antimonopoly committee auditor – Atyrau Refinery (Caspian region)
