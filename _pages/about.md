@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-I am an experienced economist and international professional project manager.
-You can find a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-March-2025.pdf).
+I am an experienced economist and an international professional project manager.
+You can find a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-July-2025.pdf).
 
 
 Research interests

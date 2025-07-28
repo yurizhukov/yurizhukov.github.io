@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Yuriy Zhukov"
+title                    : "Dr Yuri Zhukov"
 title_separator          : "-"
-name                     : &name "Yuriy Zhukov"
+name                     : &name "Yuri Zhukov"
 description              : &description "personal description"
 url                      : https://yurizhukov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "yurizhukov/yurizhukov.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuriy Zhukov"
+  name             : "Dr Yuri Zhukov"
   pronouns         : # example: "she/her"  
   bio              : "Economist | Policy Analyst | Project Manager"
   location         : "Glasgow"
