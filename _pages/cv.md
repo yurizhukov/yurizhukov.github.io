@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-March-2025.pdf).
+You can find a copy of my CV [here](https://yurizhukov.github.io/files/Zhukov-CV-July-2025.pdf).
